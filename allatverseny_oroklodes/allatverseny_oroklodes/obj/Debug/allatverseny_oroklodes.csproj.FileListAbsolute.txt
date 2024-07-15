@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\obj\Debug\allatverseny_oroklodes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\obj\Debug\allatverseny_oroklodes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\bin\Debug\allatverseny_oroklodes.exe.config
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\bin\Debug\allatverseny_oroklodes.exe
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\bin\Debug\allatverseny_oroklodes.pdb
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\obj\Debug\allatverseny_oroklodes.exe
+C:\Users\user\Desktop\allatverseny_oroklodes\allatverseny_oroklodes\obj\Debug\allatverseny_oroklodes.pdb
