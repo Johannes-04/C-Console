@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jarmupark_oroklodes", "jarmupark_oroklodes\jarmupark_oroklodes.csproj", "{B47CA423-139D-44E6-BDEE-F0044AF5BEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B47CA423-139D-44E6-BDEE-F0044AF5BEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B47CA423-139D-44E6-BDEE-F0044AF5BEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B47CA423-139D-44E6-BDEE-F0044AF5BEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B47CA423-139D-44E6-BDEE-F0044AF5BEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9155D83F-2471-4679-ABD5-49A510E62D90}
+	EndGlobalSection
+EndGlobal

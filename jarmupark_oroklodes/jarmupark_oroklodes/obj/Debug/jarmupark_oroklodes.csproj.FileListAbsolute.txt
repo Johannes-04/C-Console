@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\obj\Debug\jarmupark_oroklodes.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\obj\Debug\jarmupark_oroklodes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\bin\Debug\jarmupark_oroklodes.exe.config
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\bin\Debug\jarmupark_oroklodes.exe
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\bin\Debug\jarmupark_oroklodes.pdb
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\obj\Debug\jarmupark_oroklodes.exe
+C:\Users\user\Desktop\jarmupark_oroklodes\jarmupark_oroklodes\obj\Debug\jarmupark_oroklodes.pdb
