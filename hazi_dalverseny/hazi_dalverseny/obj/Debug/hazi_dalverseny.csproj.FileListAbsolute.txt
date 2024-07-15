@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\bin\Debug\hazi_dalverseny.exe.config
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\bin\Debug\hazi_dalverseny.exe
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\bin\Debug\hazi_dalverseny.pdb
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\obj\Debug\hazi_dalverseny.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\obj\Debug\hazi_dalverseny.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\obj\Debug\hazi_dalverseny.exe
+C:\Users\user\Desktop\hazi_dalverseny\hazi_dalverseny\obj\Debug\hazi_dalverseny.pdb
