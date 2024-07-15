@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\bin\Debug\allatmenhely-alapitvany.exe.config
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\bin\Debug\allatmenhely-alapitvany.exe
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\bin\Debug\allatmenhely-alapitvany.pdb
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\obj\Debug\allatmenhely-alapitvany.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\obj\Debug\allatmenhely-alapitvany.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\obj\Debug\allatmenhely-alapitvany.exe
+C:\Users\user\Desktop\allatmenhely-alapitvany\allatmenhely-alapitvany\obj\Debug\allatmenhely-alapitvany.pdb
